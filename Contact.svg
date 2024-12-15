@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="Contact.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.0668163"
+     inkscape:cx="86.062407"
+     inkscape:cy="113.97122"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#656fd9;stroke:#3313a4;stroke-width:0.828;fill-opacity:1;stroke-opacity:1"
+       id="path1"
+       cx="25.047747"
+       cy="24.982687"
+       r="21.014084" />
+    <circle
+       style="fill:#3313a5;fill-opacity:1;stroke:#3313a4;stroke-width:0.520398;stroke-opacity:1"
+       id="path2"
+       cx="25.373039"
+       cy="18.867136"
+       r="4.2525234" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:9.87075px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Semi-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#3313a5;fill-opacity:1;stroke:#3313a4;stroke-width:0.160885;stroke-opacity:1"
+       x="22.828024"
+       y="12.99663"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="stroke-width:0.160885"
+         x="22.828024"
+         y="12.99663">?</tspan></text>
+    <ellipse
+       style="fill:#3313a5;fill-opacity:1;stroke:#3313a4;stroke-width:1.14223;stroke-opacity:1"
+       id="path6"
+       cx="24.982689"
+       cy="36.010197"
+       rx="15.457064"
+       ry="9.1788626" />
+  </g>
+</svg>

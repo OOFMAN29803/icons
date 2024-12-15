@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="67mm"
+   viewBox="0 0 300 67"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="AllOneChats.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="570.5"
+     inkscape:cy="247.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#61cde8;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#1637cf;stop-opacity:1;"
+         offset="0.51104099"
+         id="stop7" />
+      <stop
+         style="stop-color:#7d0eff;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="15.353943"
+       y1="23.681505"
+       x2="225.10442"
+       y2="42.938995"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:25.4px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:1.00542"
+       x="8.8480349"
+       y="50.225613"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:1.00542"
+         x="8.8480349"
+         y="50.225613" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:25.4px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#6b7dcd;fill-opacity:1;stroke-width:1.00542"
+       x="22.380323"
+       y="36.953556"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#6b7dcd;fill-opacity:1;stroke-width:1.00542"
+         x="22.380323"
+         y="36.953556" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:35.915px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient6);fill-opacity:1;stroke-width:1.42164"
+       x="11.353227"
+       y="46.523754"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Semi-Bold';stroke-width:1.42164;fill-opacity:1;fill:url(#linearGradient6)"
+         x="11.353227"
+         y="46.523754">AllOneChats</tspan></text>
+    <rect
+       style="fill:#6b7dcd;fill-opacity:1;stroke-width:1.36265"
+       id="rect3"
+       width="54.674801"
+       height="39.466236"
+       x="241.27606"
+       y="10.662685"
+       rx="3.1322989"
+       ry="4.0306149" />
+    <path
+       sodipodi:type="star"
+       style="fill:#6b7dcd;fill-opacity:1;stroke-width:1.00542"
+       id="path3"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="264.33737"
+       sodipodi:cy="38.919144"
+       sodipodi:r1="6.2438078"
+       sodipodi:r2="3.1219039"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0.06"
+       inkscape:randomized="2.7755576e-17"
+       d="m 264.33737,45.162951 c -0.64887,0 -5.73173,-8.803768 -5.40729,-9.365711 0.32443,-0.561943 10.49015,-0.561943 10.81459,0 0.32444,0.561942 -4.75842,9.365711 -5.4073,9.365711 z"
+       inkscape:transform-center-y="2.8493489"
+       transform="matrix(1.8253927,0,0,1.8253927,-198.67247,-21.389291)"
+       inkscape:transform-center-x="3.9400786e-06" />
+    <rect
+       style="fill:#4552f3;fill-opacity:1;stroke-width:1.97285"
+       id="rect4"
+       width="23.108868"
+       height="12.998737"
+       x="243.899"
+       y="15.732961"
+       rx="2.2893825"
+       ry="2.402688" />
+    <rect
+       style="fill:#4552f3;fill-opacity:1;stroke-width:1.97285"
+       id="rect4-8"
+       width="23.108868"
+       height="12.998737"
+       x="256.90073"
+       y="30.187674"
+       rx="2.2893825"
+       ry="2.402688" />
+    <rect
+       style="fill:#4552f3;fill-opacity:1;stroke-width:1.42733"
+       id="rect4-8-5"
+       width="12.096047"
+       height="12.998737"
+       x="243.70294"
+       y="29.965647"
+       rx="1.9205093"
+       ry="3.0345693" />
+    <rect
+       style="fill:#4552f3;fill-opacity:1;stroke-width:1.42733"
+       id="rect4-8-5-1"
+       width="12.096047"
+       height="12.998737"
+       x="267.98044"
+       y="15.906612"
+       rx="1.9205093"
+       ry="3.0345693" />
+    <rect
+       style="fill:#4552f3;fill-opacity:1;stroke-width:2.08067"
+       id="rect4-8-5-1-7"
+       width="12.096047"
+       height="27.622316"
+       x="280.98492"
+       y="15.791954"
+       rx="1.9205093"
+       ry="2.6571627" />
+  </g>
+</svg>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500mm"
+   height="200mm"
+   viewBox="0 0 500 200"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="AllOneLabs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2739198"
+     inkscape:cx="1308.5597"
+     inkscape:cy="335.57844"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#d21326;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ff6875;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="66.968452"
+       y1="88.116386"
+       x2="191.50627"
+       y2="89.878708"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3493233,0,0,2.3493233,-124.11059,-118.30294)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:59.6728px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Semi-Bold';opacity:0.672566;fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.621591"
+       x="16.658827"
+       y="113.55258"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:url(#linearGradient2);fill-opacity:1;stroke-width:0.621591"
+         x="16.658827"
+         y="113.55258">AllOneLabs</tspan></text>
+    <rect
+       style="opacity:1;fill:#e17d91;fill-opacity:1;stroke-width:0.264583"
+       id="rect5"
+       width="45.526798"
+       height="71.080551"
+       x="365.59189"
+       y="56.541348"
+       ry="3.7551584"
+       rx="5.5807042" />
+    <rect
+       style="fill:#d54b67;fill-opacity:1;stroke-width:0.241595"
+       id="rect5-5"
+       width="40.827259"
+       height="66.087288"
+       x="367.94794"
+       y="59.033432"
+       ry="3.4913664"
+       rx="5.0046315" />
+    <rect
+       style="opacity:1;fill:#841f33;fill-opacity:1;stroke-width:0.264583"
+       id="rect6"
+       width="31.721893"
+       height="4.8464003"
+       x="372.49435"
+       y="66.674728"
+       rx="5.004631"
+       ry="0" />
+    <rect
+       style="fill:#841f33;fill-opacity:1;stroke-width:0.264583"
+       id="rect6-7"
+       width="20.560484"
+       height="4.8463974"
+       x="372.59171"
+       y="76.313034"
+       rx="5.004631"
+       ry="0" />
+    <rect
+       style="fill:#841f33;fill-opacity:1;stroke-width:0.301671"
+       id="rect6-7-5"
+       width="26.72863"
+       height="4.8463974"
+       x="372.92026"
+       y="84.999931"
+       rx="6.5060205"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#841f33;fill-opacity:1;stroke-width:0.264583"
+       id="rect7"
+       width="19.091883"
+       height="20.119907"
+       x="387.32727"
+       y="95.018837"
+       rx="6.5060205" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:13.6646px;font-family:'Plus Jakarta Sans';-inkscape-font-specification:'Plus Jakarta Sans Semi-Bold';opacity:1;fill:#841f33;fill-opacity:1;stroke-width:0.142339"
+       x="371.30173"
+       y="118.95712"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.142339"
+         x="371.30173"
+         y="118.95712">AI</tspan></text>
+  </g>
+</svg>
